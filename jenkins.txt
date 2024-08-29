@@ -1,0 +1,8 @@
+https://github.com/arunavan/sampleeygitrepo
+-console app
+
+
+https://github.com/arunavan/jenkinsdemo
+
+
+https://www.geeksforgeeks.org/understanding-jenkins-ci-cd-pipeline-and-its-stages/
